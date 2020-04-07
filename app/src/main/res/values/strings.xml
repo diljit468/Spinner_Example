@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ShopingDemo</string>
+    <string name="json_file">
+        {
+"data":[
+{
+"name":"Dettol Original Liquid Hand Wash",
+"price":"10"
+,"img":"https://i.ibb.co/9b1Gd55/a.jpg"
+},
+{
+"name":"Dettol Original Liquid Hand Wash Refill",
+"price":"14.5"
+,"img":"https://i.ibb.co/jHHL5JL/b.jpg"
+},
+{
+"name":"Dettol Liquid Soap Jar Skincare(900 ml)",
+"price":"13.5"
+,"img":"https://i.ibb.co/9bFhQ8g/c.jpg"
+},
+{
+"name":"Parle Biscuits ",
+"price":"5"
+,"img":"https://i.ibb.co/dpd9b3v/d.jpg"
+},
+{
+"name": "McVitie's Digestive Biscuits",
+"price":"8"
+,"img":"https://i.ibb.co/DM9bVw5/e.jpg"
+},
+{
+"name":"Cadbury Oreo Biscuits",
+"price":"17"
+,"img":"https://i.ibb.co/YdFDB0g/f.jpg"
+},
+{
+"name":"Aesop Gentle Facial Cleansing Milk",
+"price":"23"
+,"img":"https://i.ibb.co/KVKpDfC/g.jpg"
+},
+{
+"name":"Tiege Hanley's Daily Face Wash",
+"price":"28"
+,"img":"https://i.ibb.co/VpQHxBq/h.jpg"
+}
+]
+}
+    </string>
+</resources>
